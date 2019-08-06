@@ -10,6 +10,8 @@ i was told to make changes
 
 This is my toDo list
 
-```Eat 
+```
+Eat 
 Sleep
-Work```
+Work
+```
